@@ -1,4 +1,4 @@
-## RPG Console Game
+## :space_invader: RPG Console Game
 
 Welcome to the world of RPG Console Game, a text-based role-playing game where you'll embark on a quest to battle monsters in a 10x10 matrix world. This documentation provides an overview of the game's features, mechanics, and how to play.
 
@@ -9,7 +9,6 @@ Welcome to the world of RPG Console Game, a text-based role-playing game where y
 3. [Character Selection](#character-selection)
 4. [Gameplay](#gameplay)
 5. [Entity Framework and Database](#entity-framework-and-database)
-6. [Getting Started](#getting-started)
 
 ### 1. Introduction <a name="introduction"></a>
 
