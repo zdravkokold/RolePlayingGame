@@ -178,7 +178,7 @@ public class Game
     private void DrawGameField()
     {        
         char emptyCell = '▒';
-        char monsterCell = 'O';
+        char monsterCell = '◙';
 
         for (int y = 2; y < fieldHeight + 2; y++)
         {
