@@ -232,7 +232,6 @@ public class Game
         List<Monster> monstersInRange = monsters.Where(IsInPlayerAttackRange).ToList();
         if (monstersInRange.Count > 0)
         {
-            Console.WriteLine(monstersInRange.Count);
             for (int i = 0; i < monstersInRange.Count; i++)
             {
                 Console.WriteLine($"{i}) Target with remaining blood {monstersInRange[i].Health}");
